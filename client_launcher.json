@@ -1,3 +1,5 @@
 {
-  "urlUpdateAPK": "https://raw.githubusercontent.com/serg7520/flin-launcher/main/FlinInstall.apk"
+  "urlUpdateAPK": "https://github.com/serg7520/flin-launcher/releases/download/v.1.0.0/FlinInstall.apk",
+  "version": "1.0",
+  "sha256": "46773ae9066203d061e68c849e876961977b8027e178c521fbff749df369ee7c"
 }
